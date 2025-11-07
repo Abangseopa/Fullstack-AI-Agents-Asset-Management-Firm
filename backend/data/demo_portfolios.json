@@ -1,0 +1,18 @@
+{
+  "clients": [
+    {
+      "client_id": "ACME-001",
+      "objective": "Growth",
+      "constraints": { "esg": false, "max_drawdown_pct": 25 },
+      "holdings": { "SPY": 0.40, "QQQ": 0.25, "TLT": 0.20, "GLD": 0.15 },
+      "cash_usd": 0
+    },
+    {
+      "client_id": "BETA-002",
+      "objective": "Balanced",
+      "constraints": { "esg": true, "max_drawdown_pct": 20 },
+      "holdings": { "SPY": 0.35, "LQD": 0.35, "TLT": 0.20, "GLD": 0.10 },
+      "cash_usd": 0
+    }
+  ]
+}
