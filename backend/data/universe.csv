@@ -1,1 +1,7 @@
-
+ticker,sector,beta,expense_ratio_bps
+SPY,Equity,1.00,9
+QQQ,Equity,1.20,20
+IWM,Equity,1.25,19
+TLT,Fixed Income,-0.30,15
+LQD,Fixed Income,0.20,14
+GLD,Alternatives,0.05,40
