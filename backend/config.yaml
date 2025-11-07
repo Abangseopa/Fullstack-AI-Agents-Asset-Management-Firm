@@ -1,1 +1,13 @@
+firm:
+  base_currency: USD
+  mgmt_fee_bps: 150
+  perf_fee_pct: 0.10
 
+risk:
+  max_single_ticker_weight: 0.15
+  max_sector_weight: 0.35
+  target_vol_annual: 0.12
+
+trade:
+  lot_size: 1
+  slippage_bps: 5
